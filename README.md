@@ -1,3 +1,5 @@
+<img width="100%" src="https://ibb.co/p3FBCYY" alt="my banner">
+
 <h1 align="center">Hi 👋, I'm Nadjib Boudjidj</h1>
 <h3 align="center">A Passionate Web Frontend Developer</h3>
 
