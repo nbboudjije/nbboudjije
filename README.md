@@ -3,11 +3,9 @@
 <h1 align="center">Hi 👋, I'm Nadjib Boudjidj</h1>
 <h3 align="center">A Passionate Web Frontend Developer</h3>
 
-- 👨‍💻 All of my projects are available at [testi.com](testi.com)
+- 👨‍💻 All of my projects are available at [https://nbboudjije.github.io/portfolio](https://nbboudjije.github.io/portfolio/)
 
-- 📫 How to reach me **nadjib.boudjidje@gmail.com**
-
-- 📄 Know about my experiences [testi.com](testi.com)
+- 📫 How to reach me **nadjib.boudjidje99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
